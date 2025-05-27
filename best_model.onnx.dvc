@@ -1,0 +1,5 @@
+outs:
+- md5: 9506750d29cbbbc76293cb8ba86d3dd0
+  size: 9567322
+  hash: md5
+  path: best_model.onnx
